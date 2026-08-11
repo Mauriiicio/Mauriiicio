@@ -1,4 +1,14 @@
-<img width="500" height="250" alt="DeveloperDevGIFbyKeepCoding" src="https://github.com/user-attachments/assets/3647a441-2368-49ed-a7be-6067a1275616" />
+<div align="center">
+
+  <a href="https://github.com/Mauriiicio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauriiicio&show_icons=true&theme=tokyonight&hide_border=true"/>
+  </a>
+
+  <a href="https://github.com/Mauriiicio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauriiicio&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
+
+</div>
 
 
 
