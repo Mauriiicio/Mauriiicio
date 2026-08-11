@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Eu Sou Mauricio👋
+# Olá! Eu Sou Mauricio 👋
 
 ## Tecnologias
 
@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<div align="center">
+<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mauriiicio&theme=github_dark" />
 
@@ -19,12 +19,25 @@
 <table>
 <tr>
 
-<td>
+<td align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mauriiicio&theme=github_dark" />
+
 </td>
 
-<td>
+<td align="center">
+
 <img src="assets/Mauricio01.png" width="220" />
+
+<br>
+
+### 🎮 Game Developer
+
+💻 Unity • C# • C  
+🐍 Python  
+🎨 Desenvolvimento de Jogos  
+🇧🇷 Mato Grosso do Sul
+
 </td>
 
 </tr>
