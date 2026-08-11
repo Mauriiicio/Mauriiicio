@@ -2,7 +2,7 @@
 
 # Olá! 👋
 
-### Tecnologias
+## Tecnologias
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -12,8 +12,10 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mauriiicio&show_icons=true&theme=tokyonight&hide_border=true" height="180">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mauriiicio&theme=github_dark" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauriiicio&layout=compact&theme=tokyonight&hide_border=true" height="180">
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mauriiicio&theme=github_dark" />
 
 </div>
