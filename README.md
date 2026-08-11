@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! 👋
+# Olá! Eu sou Mauricio 👋
 
 ## Tecnologias
 
