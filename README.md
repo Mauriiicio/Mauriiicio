@@ -1,5 +1,7 @@
-<img width="148" height="200" alt="napoleondynamiteyesGIF" src="https://github.com/user-attachments/assets/50e2f2dd-0a4d-4233-9e6b-c506819fdaf0" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mauriiicio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauriiicio&layout=compact&langs_count=8&theme=dark" height="180em" />
+</div>
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
