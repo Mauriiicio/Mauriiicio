@@ -27,7 +27,7 @@
 
 <td align="center">
 
-<img src="assets/Mauricio01.png" width="220" />
+<img src="assets/Mauricio01.png" width="110" />
 
 <br>
 
