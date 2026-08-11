@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mauriiicio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauriiicio&layout=compact&langs_count=8&theme=dark" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauriiicio&layout=compact&langs_count=8&theme=tokyonight" height="180em" />
 </div>
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
