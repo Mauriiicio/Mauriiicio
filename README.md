@@ -10,16 +10,6 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mauriiicio&theme=github_dark" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mauriiicio&theme=github_dark" />
-
-</div>
-
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mauriiicio&theme=github_dark" />
